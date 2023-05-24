@@ -1,4 +1,4 @@
-#Twitter Sentiment Analysis and Topic Modeling
+##Twitter Sentiment Analysis and Topic Modeling
 ##This project performs sentiment analysis and topic modeling on tweets related to artificial intelligence (AI) technologies. Using Twitter data, we aim to answer the following questions:
 
 - What is currently the hottest AI tech on Twitter?

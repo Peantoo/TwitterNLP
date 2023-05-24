@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis and Topic Modeling
 
-## This project performs sentiment analysis and topic modeling on tweets related to artificial intelligence (AI) technologies. Using Twitter data, we aim to answer the following questions:
+## This project performs sentiment analysis and topic modeling on tweets related to artificial intelligence (AI) technologies. Using Twitter data, I will aim to answer the following questions:
 
 - What is currently the hottest AI tech on Twitter?
 - Who is the most popular AI influencer?
@@ -20,4 +20,4 @@ Sentiment analysis identifies the factors driving the development of new AI tech
 No contributions to this project are necessary as I'm sure this has been done a million times. This is entirely practice for myself as well as an example to show some basic NLP and data engineering skills.
 
 ## License
-This project is licensed under the terms of the MIT license.
+This project is un-licensed. Steal it if you really want.
